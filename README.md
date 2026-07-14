@@ -26,4 +26,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=snehajat589&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehajat589&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehajat589&layout=compact&theme=tokyonight)
