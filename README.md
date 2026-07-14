@@ -7,15 +7,28 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+# Hi 👋 I'm Sneha Jat
+
+🎓 B.Tech CSE (Data Analytics) Student at SAGE University Bhopal .
+💻 Aspiring Full Stack Web Developer.  
+🌱 Currently Learning MERN Stack, DSA & AI.
+
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (Data Analytics) Student at SAGE University
-- 💻 Aspiring Full Stack Developer
-- 🌱 Currently learning MERN Stack, DSA & AI
-- 🌾 Building **AgriCare – Smart Crop Health Monitoring System**
-- 📫 Reach me: **your_email@gmail.com**
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- 🎓 B.Tech CSE (Data Analytics) Student at SAGE University Bhopal.
+- 💻 Aspiring Full Stack Developer.
+- 🌱 Currently learning MERN Stack, DSA & AI.
+- 🌾 Building Expense Tracker System
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile.
 
+  ## 🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,github,vscode" />
+</p>
+
+## 🚀 Projects
+- Expense Tracker System.
+- 🎮 Tic Tac Toe Game.
 ## 📜 Certifications
 
 - 📊 Cisco – Introduction to Data Science.
@@ -25,22 +38,8 @@
 - ☁️ AWS – Getting Started with DevOps on AWS.
 - 📊 Microsoft Power BI.
 - 
-# Hi 👋 I'm Sneha Jat
 
-🎓 B.Tech CSE (Data Analytics) Student at SAGE University Bhopal .
-💻 Aspiring Full Stack Web Developer.  
-🌱 Currently Learning MERN Stack, DSA & AI.
 
-## 🚀 Projects
-- Expense Tracker System
-- 🎮 Tic Tac Toe Game
-
-## 🛠️ Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,github,vscode" />
-</p>
-## 📫 Connect with Me
-- LinkedIn: (https://www.linkedin.com/in/sneha-jat-a1b5ba2b5)
 
 ## 📊 GitHub Stats
 
