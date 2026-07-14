@@ -1,11 +1,11 @@
 # Hi 👋 I'm Sneha Jat
 
-🎓 B.Tech CSE Student at SAGE University  
-💻 Aspiring Full Stack Web Developer  
-🌱 Currently Learning MERN Stack, DSA & AI
+🎓 B.Tech CSE (Data Analytics) Student at SAGE University Bhopal .
+💻 Aspiring Full Stack Web Developer.  
+🌱 Currently Learning MERN Stack, DSA & AI.
 
 ## 🚀 Projects
-- 🌾 AgriCare – Smart Crop Health Monitoring System
+- Expense Tracker System
 - 🎮 Tic Tac Toe Game
 
 ## 🛠️ Skills
