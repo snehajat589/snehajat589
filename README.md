@@ -9,14 +9,9 @@
 - 🎮 Tic Tac Toe Game
 
 ## 🛠️ Skills
-- HTML
-- CSS
-- JavaScript
-- C
-- C++
-- Python
-- Git & GitHub
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,github,vscode" />
+</p>
 ## 📫 Connect with Me
 - LinkedIn: (https://www.linkedin.com/in/sneha-jat-a1b5ba2b5)
 
