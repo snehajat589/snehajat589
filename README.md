@@ -19,3 +19,11 @@
 
 ## 📫 Connect with Me
 - LinkedIn: (https://www.linkedin.com/in/sneha-jat-a1b5ba2b5)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehajat589&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=snehajat589&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehajat589&layout=compact&theme=tokyonight)
