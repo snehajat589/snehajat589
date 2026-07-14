@@ -7,6 +7,24 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE (Data Analytics) Student at SAGE University
+- 💻 Aspiring Full Stack Developer
+- 🌱 Currently learning MERN Stack, DSA & AI
+- 🌾 Building **AgriCare – Smart Crop Health Monitoring System**
+- 📫 Reach me: **your_email@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+
+## 📜 Certifications
+
+- 📊 Cisco – Introduction to Data Science.
+- 🌐 Infosys Springboard – Beginner Responsive Web Development with HTML & CSS.
+- 🗣️ TCS iON – Communication Skills.
+- 📈 Simplilearn – Introduction to Data Analytics.
+- ☁️ AWS – Getting Started with DevOps on AWS.
+- 📊 Microsoft Power BI.
+- 
 # Hi 👋 I'm Sneha Jat
 
 🎓 B.Tech CSE (Data Analytics) Student at SAGE University Bhopal .
